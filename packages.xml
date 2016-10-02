@@ -1771,7 +1771,7 @@
         <entry key="Djamo" value="" />
         <entry key="DjanJinja" value="" />
         <entry key="Djang" value="" />
-        <entry key="Django" value="" />
+        <entry key="Django" value="1.10.2" />
         <entry key="Django-Abstract-Relations" value="" />
         <entry key="Django-Accounts" value="" />
         <entry key="Django-Actuary" value="" />
@@ -89840,7 +89840,7 @@
         <entry key="zzzfs" value="" />
       </map>
     </option>
-    <option name="virtualEnvBasePath" value="C:\Users\Sarvex\Workspace\pyramid_python" />
+    <option name="virtualEnvBasePath" value="C:\Users\Sarvex\Workspace\django_python" />
     <option name="LAST_TIME_CHECKED" value="1475381148039" />
   </component>
 </application>
