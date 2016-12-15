@@ -32,57 +32,5 @@
       </roots>
       <additional />
     </jdk>
-    <jdk version="2">
-      <name value="Python 3.5.2 virtualenv at C:\Users\Sarvex\Workspace\FlaskBasics\env" />
-      <type value="Python SDK" />
-      <version value="Python 3.5.2" />
-      <homePath value="C:\Users\Sarvex\Workspace\FlaskBasics\env\Scripts\python.exe" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Workspace/FlaskBasics/env/Lib" />
-            <root type="simple" url="file://$USER_HOME$/Workspace/FlaskBasics/env/Scripts" />
-            <root type="simple" url="file://C:/Program Files/Python35/Lib" />
-            <root type="simple" url="file://C:/Program Files/Python35/DLLs" />
-            <root type="simple" url="file://$USER_HOME$/Workspace/FlaskBasics/env" />
-            <root type="simple" url="file://$USER_HOME$/Workspace/FlaskBasics/env/Lib/site-packages" />
-            <root type="simple" url="file://C:/Program Files/Python35" />
-            <root type="simple" url="file://C:/Program Files/Python35/Lib/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1172985861" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.5.2 virtualenv at C:\Users\Sarvex\Workspace\FlaskBasics\env (1)" />
-      <type value="Python SDK" />
-      <version value="Python 3.5.2" />
-      <homePath value="C:\Users\Sarvex\Workspace\FlaskBasics\env\Scripts\python.exe" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Workspace/FlaskBasics/env/Lib" />
-            <root type="simple" url="file://$USER_HOME$/Workspace/FlaskBasics/env/Scripts" />
-            <root type="simple" url="file://C:/Program Files/Python35/Lib" />
-            <root type="simple" url="file://C:/Program Files/Python35/DLLs" />
-            <root type="simple" url="file://$USER_HOME$/Workspace/FlaskBasics/env" />
-            <root type="simple" url="file://$USER_HOME$/Workspace/FlaskBasics/env/Lib/site-packages" />
-            <root type="simple" url="file://C:/Program Files/Python35" />
-            <root type="simple" url="file://C:/Program Files/Python35/Lib/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1172985861" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Workspace/FlaskBasics" />
-    </jdk>
   </component>
 </application>
