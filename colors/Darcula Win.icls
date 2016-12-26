@@ -1,0 +1,12 @@
+<scheme name="Darcula Win" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2016-12-16T08:37:59</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2016.3.1.0.0</property>
+    <property name="modified">2016-12-16T08:39:14</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+</scheme>
